@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelzipaosilva/aluraplay-requisicoes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rafaelzipaosilva/aluraplay-requisicoes/issues"
+  },
+  "homepage": "https://github.com/rafaelzipaosilva/aluraplay-requisicoes#readme"
 }
